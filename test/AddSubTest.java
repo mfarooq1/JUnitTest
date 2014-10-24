@@ -31,6 +31,6 @@ public class AddSubTest {
    @Test
    
    public void testAddLong() {
-	      assertEquals("error in add()", 3000, Calculator.add(1000, 5000));
+	      assertEquals("error in add()", 2000, Calculator.add(1000, 5000));
 	   }
 }
